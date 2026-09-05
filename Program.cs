@@ -1,6 +1,11 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hi Amir khan");
 Console.WriteLine("Hi i am muskan khan");
-Console.WriteLine("checking again")
+Console.WriteLine("checking again");
+Console.WriteLine("Hi Working to learn GitHub");
+Console.WriteLine("Featuer branch");
+Console.WriteLine("checking again");
+//-------------------------------------------------------------------------
+Console.WriteLine("Testing from here");
 //-------------------------------------------------------------------------
 Console.WriteLine("Testing from here");
